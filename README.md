@@ -2,6 +2,12 @@
 
 [Treza](https://www.trezalabs.com) components for [Langflow](https://www.langflow.org), as a Langflow Extension Bundle. Make AI pictures and video clips (Veo, Kling, Seedance and more) and run your saved Treza pipelines from a flow, or hand them to an Agent as tools. Treza prices every render first, and a Max cost you set stops any render that costs more, with nothing spent.
 
+## What Treza makes
+
+![Four short clips made with Treza: a red hover car racing through a neon city, an astronaut walking over a Martian dune at sunset, an orchid mantis on a leaf, and espresso pouring into a cup](https://raw.githubusercontent.com/treza-labs/treza-labs/main/assets/treza-demo.gif)
+
+These clips were made with [Treza](https://www.trezalabs.com), and the [Langflow integration page](https://www.trezalabs.com/integrations/langflow) shows how to set up these components.
+
 ## Install
 
 In the Python environment Langflow runs in:
